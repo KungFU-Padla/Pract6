@@ -1,0 +1,17 @@
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.csproj.AssemblyReference.cache
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.AssemblyInfoInputs.cache
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.AssemblyInfo.cs
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.csproj.CoreCompileInputs.cache
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\bin\Debug\net6.0\Текстовый редактор.exe
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\bin\Debug\net6.0\Текстовый редактор.deps.json
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\bin\Debug\net6.0\Текстовый редактор.runtimeconfig.json
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\bin\Debug\net6.0\Текстовый редактор.dll
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\bin\Debug\net6.0\Текстовый редактор.pdb
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.csproj.CopyComplete
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.dll
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\refint\Текстовый редактор.dll
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.pdb
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\Текстовый редактор.genruntimeconfig.cache
+C:\Users\lexre\source\repos\Текстовый редактор\Текстовый редактор\obj\Debug\net6.0\ref\Текстовый редактор.dll
